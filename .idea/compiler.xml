@@ -7,10 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="class01" />
+        <module name="config-client-git" />
+        <module name="config-server-git" />
         <module name="eureka-feign" />
         <module name="eureka-producer" />
         <module name="eureka-server" />
         <module name="hystrix-dashboard" />
+        <module name="service-trubine" />
       </profile>
     </annotationProcessing>
   </component>
